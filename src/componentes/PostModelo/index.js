@@ -16,5 +16,6 @@ export default function PostModelo({ children, fotoCapa, titulo }) {
                 {children}
             </div>
         </article>
+        
     )
 }
