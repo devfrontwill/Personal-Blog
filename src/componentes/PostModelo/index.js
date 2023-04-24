@@ -9,12 +9,11 @@ export default function PostModelo({ children, fotoCapa, titulo }) {
 
             </div>
 
-            <h2 className={styles.titulo}>
+            <h2 className= { styles.titulo } >
                 {titulo}
             </h2>
 
-            <div className={styles.postConteudoContainer}>
-                {children}
+            <div className= { styles.postConteudoContainer } > {children}
             </div>
         </article>
         
