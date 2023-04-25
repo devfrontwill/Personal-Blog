@@ -28,6 +28,7 @@ export default function Banner() {
                     src={minhaFoto}
                     alt="Foto do Antônio Evaldo sorrindo"
                 />
+                
             </div>
         </div>
     )
